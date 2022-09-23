@@ -1,21 +1,21 @@
 {
-  "name": "parcel-project-template",
+  "name": "testterminal",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/parcel-project-template",
+  "homepage": "https://jekiekolya.github.io/Test_terminal/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /Test_terminal/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/goitacademy/parcel-project-template.git"
+    "url": "git+https://github.com/jekiekolya/Test_terminal.git"
   },
   "keywords": [],
-  "author": "Alexander Repeta <alexander.repeta@gmail.com>",
+  "author": "jekiekolya <bermykola@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/goitacademy/parcel-project-template/issues"
+    "url": "https://jekiekolya.github.io/Test_terminal/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
